@@ -1,6 +1,6 @@
 {
-  "name": "cpx",
-  "version": "1.5.0",
+  "name": "@akryum/cpx",
+  "version": "1.5.1",
   "description": "Copy file globs, watching for changes.",
   "engines": {
     "node": ">=6.5"
