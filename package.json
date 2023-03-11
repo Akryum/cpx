@@ -27,7 +27,7 @@
     "co": "^4.6.0",
     "debounce": "^1.1.0",
     "debug": "^3.1.0",
-    "duplexer": "^0.1.1",
+    "duplexify": "^4.1.2",
     "fs-extra": "^6.0.1",
     "glob": "^7.1.2",
     "glob2base": "0.0.12",
