@@ -113,6 +113,7 @@ module.exports = function main(source, outDir, args) {
     const options = normalizeOptions(source, outDir, {
         transform: mergedTransformFactories,
         dereference: args.dereference,
+        ignore: args.ignore,
         includeEmptyDirs: args.includeEmptyDirs,
         initialCopy: args.initial,
         preserve: args.preserve,
