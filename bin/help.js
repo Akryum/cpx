@@ -30,6 +30,8 @@ Options:
                               <dest> directory before the first copying.
     -L, --dereference         Follow symbolic links when copying from them.
     -h, --help                Print usage information.
+    -x, --ignore <pattern>,   Ignore files that match <pattern>
+        --exclude <pattern>
     --include-empty-dirs      The flag to copy empty directories which is
                               matched with the glob.
     --no-initial              The flag to not copy at the initial time of watch.
